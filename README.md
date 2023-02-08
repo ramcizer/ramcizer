@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: What fun? Coding until I can't code anymore, learning just the same. 
 -->
 
-### Hello World 👋 It's Ramis (https://ramcizer.github.io/MyPortfolio/)
+### Hello World 👋 It's Ramis
 
 <br/>
 
